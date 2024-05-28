@@ -1,29 +1,22 @@
-# О себе
+Hi 👋 My name is Kolokolov Dmitriy
+==================================
 
-- Меня зовут Колоколов Дмитрий.
-- Мне 23 года
+Backend Developer
+-----------------
 
-# Образование:
-  - Бакалавриат: БФ УУНиТ, "Прикладная информатика в информационной сфере" (2019 - 2023)
-  - Магистратура: Университет Иннополис, "Программная инженерия" (2023 - 2025)
-  - ДПО: Университет Иннополис, "Принципы управления разработкой программных продуктов. Новые производственные технологии" (2023)
-  
-# Стек технологий
-  - С# и связанные с ним технологии: Asp.Net Core, WPF, WinForms, Entity Framework, LINQ
-  - React
-  - PostgreSQL
-  - SQLite
-  - Postman
+* 🌍  I'm based in Innopolis
+* ✉️  You can contact me at [dimoninbirsk@gmail.com](mailto:dimoninbirsk@gmail.com)
+* 🧠  I'm learning ASP.NET Core, Docker, PostgreSQL and other backend stuff
 
-# Проекты
-  - Сайт для бронирования комнаты в гостинице. 
-    - Backend: Asp.Net Core Web Api, Entity Framework
-    - Frontend: React, MobX, Tailwind CSS
-    - DataBase: PostgreSql, SQLite
- 
- # Контакты
-    -Telegram: https://t.me/dimoninbirsk
-    -Gmail: dimoninbirsk@gmail.com
+### Skills
 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/dimoninbirsk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://github.com/dimoninbirsk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimoninbirsk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
